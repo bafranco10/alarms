@@ -1,0 +1,3119 @@
+<ClipboardData>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="1"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_1"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="813"/>
+  <Property Name="TextItemText[0]" Value="Module Power Controller {DEV_NUM} is reporting an overtemperature condition."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="2"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_2"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="819"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} exceeded its charge timeout limit."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="3"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_3"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="827"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} exceeded its discharge timeout limit."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="4"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_4"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="820"/>
+  <Property Name="TextItemText[0]" Value="{MSG_DATA} cartridge(s) is/are available.  {DEV_NUM} are required to run the system. Fix or modify config parameters."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="5"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_5"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="821"/>
+  <Property Name="TextItemText[0]" Value="Serial port {DEV_NUM} failed to open."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="6"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_6"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="822"/>
+  <Property Name="TextItemText[0]" Value="Serial port {DEV_NUM} reported an invalid header."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="7"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_7"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="823"/>
+  <Property Name="TextItemText[0]" Value="Serial port {DEV_NUM} reported an invalid trailer."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="8"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_8"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="824"/>
+  <Property Name="TextItemText[0]" Value="Serial port {DEV_NUM} reported receive error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="9"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_9"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="825"/>
+  <Property Name="TextItemText[0]" Value="Serial port {DEV_NUM} reported transmit error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="10"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_10"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="848"/>
+  <Property Name="TextItemText[0]" Value="Serial port {DEV_NUM} reported an invalid checksum."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="11"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_11"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="847"/>
+  <Property Name="TextItemText[0]" Value="System has lost communication with cartridge {DEV_NUM}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="12"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_12"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="846"/>
+  <Property Name="TextItemText[0]" Value="Pump {DEV_NUM} reported a low pressure alarm from {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="13"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_13"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="845"/>
+  <Property Name="TextItemText[0]" Value="Pump {DEV_NUM} reported a high pressure alarm from {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="14"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_14"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="878"/>
+  <Property Name="TextItemText[0]" Value="Pump {DEV_NUM} is not ready to run.  Check for a fault condition."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="15"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_15"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="844"/>
+  <Property Name="TextItemText[0]" Value="System has lost communication with the radio for Pump {DEV_NUM}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="16"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_16"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="843"/>
+  <Property Name="TextItemText[0]" Value="Pump {DEV_NUM} has reported PID tuning error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="17"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_17"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="842"/>
+  <Property Name="TextItemText[0]" Value="Valve {DEV_NUM} {DESC} has reported a positioning error."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="18"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_18"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="885"/>
+  <Property Name="TextItemText[0]" Value="Backflush positioning error."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="19"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_19"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="884"/>
+  <Property Name="TextItemText[0]" Value="Tank {DEV_NUM} {DESC}  reported a low level condition."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="20"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_20"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="882"/>
+  <Property Name="TextItemText[0]" Value="Tank {DEV_NUM} {DESC}  reported a pH that is out of range."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="21"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_21"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="879"/>
+  <Property Name="TextItemText[0]" Value="Tank {DEV_NUM} {DESC}  reported an impossible combination of level sensor readings. Check for a faulty level sensor."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="22"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_22"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="840"/>
+  <Property Name="TextItemText[0]" Value="Backflush tank low."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="23"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_23"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="839"/>
+  <Property Name="TextItemText[0]" Value="The DataRecorder reported file creation error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="24"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_24"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="838"/>
+  <Property Name="TextItemText[0]" Value="The DataRecorder reported get time error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="25"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_25"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="837"/>
+  <Property Name="TextItemText[0]" Value="The DataRecorder reported file write error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="26"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_26"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="836"/>
+  <Property Name="TextItemText[0]" Value="The DataRecorder reported file close error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="27"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_27"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="835"/>
+  <Property Name="TextItemText[0]" Value="The DataRecorder reported file space query error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="28"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_28"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="808"/>
+  <Property Name="TextItemText[0]" Value="The Statisics calculator reported a Get_Time error {MSG_DATA}."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="29"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_29"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="890"/>
+  <Property Name="TextItemText[0]" Value="{DESC} sensor {DEV_NUM} reported a reading of {MSG_DATA} which is below the min stop limit."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="30"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_30"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="891"/>
+  <Property Name="TextItemText[0]" Value="{DESC} sensor {DEV_NUM} reported a reading of {MSG_DATA} which is below the min warning limit."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="31"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_31"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="893"/>
+  <Property Name="TextItemText[0]" Value="{DESC} sensor {DEV_NUM} reporeted a reading of {MSG_DATA} which is above the max warning limit."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="32"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_32"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="892"/>
+  <Property Name="TextItemText[0]" Value="{DESC} sensor {DEV_NUM} reported a reading of {MSG_DATA} which is above the max stop limit."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="33"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_33"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="898"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported a voltage drain error. Check the power cable connections.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="34"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_34"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="899"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported a sudden power drop. Check the sense wires connections.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="35"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_35"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="900"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported a charging polarity error. Check for reversed wires.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="36"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_36"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="901"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported that cartridges are shorted or the sense wires are miswired.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="37"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_37"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="902"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported that the sense wires are shorted or disconnected.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="38"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_38"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="903"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported that it's memory card cannot be accessed."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="39"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_39"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="904"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported that it is not attached to its power board."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="40"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_40"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="905"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} has exceeded its service life and needs to be replaced."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="41"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_41"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="906"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported an electrical calibration error. {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="42"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_42"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="907"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} has lost its 12 volt power and is inoperable. {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="43"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_43"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="908"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported a power board overtemperature condition and has shutdown.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="44"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_44"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="909"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} has lost its communication connection.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="45"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_45"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="910"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported a communication timeout error.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="46"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_46"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="911"/>
+  <Property Name="TextItemText[0]" Value="Cartridge {DEV_NUM} reported a general power board error. {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="47"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_47"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="919"/>
+  <Property Name="TextItemText[0]" Value="Pump {DEV_NUM} reported a flow limiting pressure condition from the {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="48"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_48"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="923"/>
+  <Property Name="TextItemText[0]" Value="Cell {DEV_NUM}  has exceed its 3.2v limit  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="49"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_49"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="924"/>
+  <Property Name="TextItemText[0]" Value="POL {DEV_NUM}  has exceeded its 3.6v limit  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="50"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_50"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="925"/>
+  <Property Name="TextItemText[0]" Value="Cell {DEV_NUM}  had exceeded its 60amp limit  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="51"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_51"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="962"/>
+  <Property Name="TextItemText[0]" Value="ALARM_CONFIG_FILE_DEVICE_ERROR  {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="52"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_52"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="961"/>
+  <Property Name="TextItemText[0]" Value="ALARM_CONFIG_FILE_PARSING_ERROR  {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="53"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_53"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="960"/>
+  <Property Name="TextItemText[0]" Value="ALARM_CONFIG_CONFIG_FOLDER_ERROR  {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="54"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_54"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="959"/>
+  <Property Name="TextItemText[0]" Value="ALARM_CONFIG_DIR_INFO_ERROR  {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="55"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_55"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="971"/>
+  <Property Name="TextItemText[0]" Value="ALARM_CONFIG_DIR_READ_ERROR  {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="56"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_56"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="954"/>
+  <Property Name="TextItemText[0]" Value="ALARM_CONFIG_PARSE_FAILED  {DESC} "/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="57"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_57"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="929"/>
+  <Property Name="TextItemText[0]" Value="An Operator could not be understood by the recipe system. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="58"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_58"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="931"/>
+  <Property Name="TextItemText[0]" Value="The type of a variable could not be understood by the recipe system. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="59"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_59"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="932"/>
+  <Property Name="TextItemText[0]" Value="A recipe variable could not be found by it's name in the recipe system. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="60"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_60"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="950"/>
+  <Property Name="TextItemText[0]" Value="The recipe has posted an alarm with description = {DESC} , with message  = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="61"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_61"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="933"/>
+  <Property Name="TextItemText[0]" Value="A change of state command was issued to a state that does not exist. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="62"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_62"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="976"/>
+  <Property Name="TextItemText[0]" Value="The Hardware Config did not match starting at device {MSG_DATA}. Reboot Required.  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="63"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_63"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="977"/>
+  <Property Name="TextItemText[0]" Value="The Hardware Config has been replaced starting at device {MSG_DATA} -  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="65"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_65"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="983"/>
+  <Property Name="TextItemText[0]" Value="The was a power failure while running system state {DEV_NUM}, with regen state {MSG_DATA}, and at reciple state -  {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="66"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_66"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="988"/>
+  <Property Name="TextItemText[0]" Value="The system was stopped with message {DESC} {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="67"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_67"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="992"/>
+  <Property Name="TextItemText[0]" Value="A regen was stopped in state {MSG_DATA} wiithout being completed. A Regen Now and Manual Start is needed to finish the process."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="68"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_68"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="997"/>
+  <Property Name="TextItemText[0]" Value="The system has lost communication with the ElectraLink server. Please check communication hardware. A reboot may be required."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="69"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_69"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="998"/>
+  <Property Name="TextItemText[0]" Value="The system cannot find a valid software license. It may be expired. Please contact PowerTech for reactivation."/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="70"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_70"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="937"/>
+  <Property Name="TextItemText[0]" Value="IOMap destination and source variables have different types. Line + {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="71"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_71"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="938"/>
+  <Property Name="TextItemText[0]" Value="IOMap variable name not found. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="72"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_72"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="939"/>
+  <Property Name="TextItemText[0]" Value="IOMap input or output vairable on the wrong side. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="73"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_73"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="940"/>
+  <Property Name="TextItemText[0]" Value="IOMap variable is of an unsupported type. Line = {MSG_DATA}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="74"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_74"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="946"/>
+  <Property Name="TextItemText[0]" Value="IOMap warning no Ptw_IOMap.csv file loaded"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+  <Property Name="Acknowledge" Value="Possible"/>
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+  <Property Name="Bypass" Value="Enabled"/>
+  <Property Name="Description" Value=""/>
+  <Property Name="Index" Value="75"/>
+  <Property Name="Latched" Value="False"/>
+  <Property Name="Name" Value="AlarmItem_75"/>
+  <Property Name="RecordAcknowledge" Value="True"/>
+  <Property Name="RecordBypass" Value="All"/>
+  <Property Name="RecordReset" Value="All"/>
+  <Property Name="RecordTrigger" Value="True"/>
+  <Property Name="TextID" Value="966"/>
+  <Property Name="TextItemText[0]" Value="The notify alarm email system is not working Error = {MSG_DATA}, Subject = {DESC}"/>
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+  <LanguageMngr>
+    <Property Name="FallBackLanguage" Value="None"/>
+    <Language Name="English (UNITED STATES)">
+      <Property Name="BidiMode" Value="False"/>
+      <Property Name="Compile" Value="True"/>
+      <Property Name="CountryInfo" Value="US"/>
+      <Property Name="Description" Value="English Language"/>
+      <Property Name="Index" Value="0"/>
+      <Property Name="InputMethod" Value="None"/>
+      <Property Name="LanguageInfo" Value="en"/>
+    </Language>
+  </LanguageMngr>
+</AlarmItem>
+<AlarmItem>
+<Property Name="Acknowledge" Value="Possible"/>
+
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+
+  <Property Name="Bypass" Value="Enabled"/>
+
+  <Property Name="Description" Value=""/>
+
+  <Property Name="Index" Value="76"/>
+
+  <Property Name="Latched" Value="False"/>
+
+  <Property Name="Name" Value="AlarmItem_76"/>
+
+  <Property Name="RecordAcknowledge" Value="True"/>
+
+  <Property Name="RecordBypass" Value="All"/>
+
+  <Property Name="RecordReset" Value="All"/>
+
+  <Property Name="RecordTrigger" Value="True"/>
+
+  <Property Name="TextID" Value="1002"/>
+
+  <Property Name="TextItemText[0]" Value="The output voltage is being limited because amps are starting to apporach maximum amperage. {DESC}"/>
+
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+
+  <LanguageMngr>
+
+    <Property Name="FallBackLanguage" Value="None"/>
+
+    <Language Name="English (UNITED STATES)">
+
+      <Property Name="BidiMode" Value="False"/>
+
+      <Property Name="Compile" Value="True"/>
+
+      <Property Name="CountryInfo" Value="US"/>
+
+      <Property Name="Description" Value="English Language"/>
+
+      <Property Name="Index" Value="0"/>
+
+      <Property Name="InputMethod" Value="None"/>
+
+      <Property Name="LanguageInfo" Value="en"/>
+
+    </Language>
+
+  </LanguageMngr>
+
+  <LanguageMngr>
+
+    <Property Name="FallBackLanguage" Value="None"/>
+
+    <Language Name="English (UNITED STATES)">
+
+      <Property Name="BidiMode" Value="False"/>
+
+      <Property Name="Compile" Value="True"/>
+
+      <Property Name="CountryInfo" Value="US"/>
+
+      <Property Name="Description" Value="English Language"/>
+
+      <Property Name="Index" Value="0"/>
+
+      <Property Name="InputMethod" Value="None"/>
+
+      <Property Name="LanguageInfo" Value="en"/>
+
+    </Language>
+
+  </LanguageMngr>
+
+</AlarmItem>
+
+<AlarmItem>
+
+  <Property Name="Acknowledge" Value="Possible"/>
+
+  <Property Name="AcknowledgeActive" Value="Enabled"/>
+
+  <Property Name="Bypass" Value="Enabled"/>
+
+  <Property Name="Description" Value=""/>
+
+  <Property Name="Index" Value="77"/>
+
+  <Property Name="Latched" Value="False"/>
+
+  <Property Name="Name" Value="AlarmItem_77"/>
+
+  <Property Name="RecordAcknowledge" Value="True"/>
+
+  <Property Name="RecordBypass" Value="All"/>
+
+  <Property Name="RecordReset" Value="All"/>
+
+  <Property Name="RecordTrigger" Value="True"/>
+
+  <Property Name="TextID" Value="1003"/>
+
+  <Property Name="TextItemText[0]" Value="The output voltage is being limited because the input power supply is starting to approach the maximum power draw of 15amps at 12v. {DESC}"/>
+
+  <Property Name="TriggerGroupAlarm" Value="False"/>
+
+  <LanguageMngr>
+
+    <Property Name="FallBackLanguage" Value="None"/>
+
+    <Language Name="English (UNITED STATES)">
+
+      <Property Name="BidiMode" Value="False"/>
+
+      <Property Name="Compile" Value="True"/>
+
+      <Property Name="CountryInfo" Value="US"/>
+
+      <Property Name="Description" Value="English Language"/>
+
+      <Property Name="Index" Value="0"/>
+
+      <Property Name="InputMethod" Value="None"/>
+
+      <Property Name="LanguageInfo" Value="en"/>
+
+    </Language>
+
+  </LanguageMngr>
+
+  <LanguageMngr>
+
+    <Property Name="FallBackLanguage" Value="None"/>
+
+    <Language Name="English (UNITED STATES)">
+
+      <Property Name="BidiMode" Value="False"/>
+
+      <Property Name="Compile" Value="True"/>
+
+      <Property Name="CountryInfo" Value="US"/>
+
+      <Property Name="Description" Value="English Language"/>
+
+      <Property Name="Index" Value="0"/>
+
+      <Property Name="InputMethod" Value="None"/>
+
+      <Property Name="LanguageInfo" Value="en"/>
+
+    </Language>
+
+  </LanguageMngr>
+</AlarmItem>
+</ClipboardData>
