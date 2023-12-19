@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link href="alarm_styles.css" rel="stylesheet">
 
     <!-- Javascript sources for bootstrap and the calendar -->
@@ -42,9 +42,10 @@
     <!-- Tab content -->
     <div id="Current Alarms" class="tabcontent border-bottom-0">
         <h1>Current Alarms</h1>
-    
-        <button type="button" class="btn btn-primary" id="acknowledgeAllButton" onclick="acknowledgeAllAlarms();" style="margin-right: 140px;">Acknowledge All</button>
-    
+
+        <button type="button" class="btn btn-primary" id="acknowledgeAllButton" onclick="acknowledgeAllAlarms();"
+            style="margin-right: 140px;">Acknowledge All</button>
+
         <table id="alarmTable" class="table border-0">
             <thead>
                 <tr>
@@ -65,7 +66,7 @@
             </tbody>
         </table>
     </div>
-    
+
     <div id="Alarm History" class="tabcontent border-bottom-0">
         <h1>Alarm History</h1>
 
@@ -92,14 +93,19 @@
         </form>
 
         <script>
-            $('#datepicker1').datepicker({
-                uiLibrary: 'bootstrap5'
-            });
+            document.addEventListener('DOMContentLoaded', function () {
+                $('#datepicker1').datepicker({
+                    uiLibrary: 'bootstrap5',
+                    startDate: '2023-01-01', // Set the minimum date
+                });
 
-            $('#datepicker2').datepicker({
-                uiLibrary: 'bootstrap5'
+                $('#datepicker2').datepicker({
+                    uiLibrary: 'bootstrap5',
+                    startDate: '2023-01-01', // Set the minimum date
+                });
             });
         </script>
+
 
         <table id="historyTable" class="table">
             <thead>
@@ -118,11 +124,11 @@
     <div id="errorContainer"></div>
     <script>
         initializeHistoryFromCookies();
-       /* setTimeout(() => {
-            fetchData(0);
-        }, 1000); */ 
+        /* setTimeout(() => {
+             fetchData(0);
+         }, 1000); */
         setTimeout(() => {
-            fetchData(1);
+            fetchData(0);
         }, 1000);
         /*
         setTimeout(() => {
@@ -159,5 +165,5 @@
         window.onload = function () {
             initializeHistoryFromCookies();
         };
-        
+
     </script>

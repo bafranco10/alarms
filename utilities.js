@@ -68,7 +68,7 @@ function updateGraphic(data) {
         });
     }
 }
-
+/*
 // iterates through the endpoints given in the script. After iteration it replaces the script to either have 
 function checkServerAvailability() {
     const serverUrl = fetchEndpoints[currentServerIndex];
@@ -99,6 +99,7 @@ function checkServerAvailability() {
 }
 
 const serverCheckInterval = setInterval(checkServerAvailability, 5000); 
+*/
 
 // function to change text in active column to inactive if a stop alarm is inactive but needs to be acknowledged
 function updateActiveCellText(alarmCode, trainData, newText, Desc, DateTime) {
